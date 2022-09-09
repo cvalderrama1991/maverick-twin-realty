@@ -26,18 +26,12 @@ const Home = () => {
           </div>
         </div>
         <div className="h-1/2 md:h-1/4 grid gap-2 md:grid-cols-3 ">
-          <Location
-            location="GREENSBORO"
-            image="./assets/greensboro-house.jpg"
-          />
+          <Location location="GREENSBORO" image="./greensboro-house.jpg" />
           <Location
             location="WINSTON SALEM"
-            image="./assets/winston-salem-house.jpg"
+            image="./winston-salem-house.jpg"
           />
-          <Location
-            location="HIGH POINT"
-            image="./assets/high-point-house.jpg"
-          />
+          <Location location="HIGH POINT" image="./high-point-house.jpg" />
         </div>
       </div>
     </section>

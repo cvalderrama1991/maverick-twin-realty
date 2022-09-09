@@ -11,20 +11,20 @@ const Services = () => {
         <ul className="grid gap-4">
           <ServiceType
             title="Finding the home of your dreams."
-            image="./assets/house-for-sale.jpeg"
+            image="./house-for-sale.jpeg"
           />
           <ServiceType
             title="Selling or Renting your existing home."
-            image="./assets/house-sold.jpg"
+            image="./house-sold.jpg"
             reverse
           />
           <ServiceType
             title="Contracting home improvements."
-            image="./assets/house-renovation.jpg"
+            image="./house-renovation.jpg"
           />
           <ServiceType
             title="Cleaning of vacant properties."
-            image="./assets/house-cleaning.jpg"
+            image="./house-cleaning.jpg"
             reverse
           />
         </ul>

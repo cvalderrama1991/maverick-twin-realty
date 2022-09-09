@@ -13,7 +13,7 @@ const Header = () => {
     <div className="bg-red-900 w-full h-12 fixed top-0 left-0 z-10 border-b border-white">
       <header className="h-full container mx-auto p-2 flex items-center justify-between relative">
         <div className="text-white font-bold font-sourceSerifPro text-2xl">
-          <Link to="/" onClick={() => setMobileNav(false)}>
+          <Link to="/maverick-twin-realty/" onClick={() => setMobileNav(false)}>
             MAVERICK
           </Link>
         </div>
