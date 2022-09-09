@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maverick-twin-realty/static/css/main.32640849.css",
+    "main.js": "/maverick-twin-realty/static/js/main.35871a6f.js",
+    "index.html": "/maverick-twin-realty/index.html",
+    "main.32640849.css.map": "/maverick-twin-realty/static/css/main.32640849.css.map",
+    "main.35871a6f.js.map": "/maverick-twin-realty/static/js/main.35871a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32640849.css",
+    "static/js/main.35871a6f.js"
+  ]
+}
